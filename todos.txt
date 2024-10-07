@@ -1,0 +1,3 @@
+clean bedroom
+print reports
+clean shoes
